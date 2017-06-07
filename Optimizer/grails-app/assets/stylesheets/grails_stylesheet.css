@@ -1,0 +1,347 @@
+body {
+	background: #e9ebee;
+	border: 0;
+	margin: 0;
+	padding: 0;
+	vertical-align: baseline;
+	font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+h2 {
+	font-size: 20px; 
+	font-weight:normal;
+	text-align:bold;
+ }
+ 
+.loginbox { 
+	background: #FBFCFD; 
+	padding: 20px; 
+	width: 580px; 
+	margin: 4% auto 0 auto; 
+	position: relative; 
+}
+.loginboxinner {
+	background: #FBFCFD; 
+	padding: 3px; 
+	position: relative; 
+	border: 1px solid #FBFCFD;
+}
+/* space between box to the heading in the container */
+.loginheader { 
+		height: px;
+	 }
+.loginform { 
+	margin: 1px auto; 
+	text-align:center; 
+	}
+.loginbox p{
+  margin: 7px 0 5px 0; 
+  }
+  /* space between firstname and lastname */
+.loginbox input.mini {
+	width:177px; 
+	padding: 12px 10px; 
+	}
+	
+.loginbox input
+ {
+	padding: 12px 10px; 
+	font-family: Arial, Helvetica, sans-serif;
+	 margin-top: 10px; 
+	 font-size: 15px; 
+	 border: 1px solid #ccc; 
+	 width: 380px; 
+}
+/* button */
+.loginbox button {
+		background: #b81118;
+	 	font-size: 18px; 
+	 	border: 1px solid #b81118; 
+	  	letter-spacing: 1px;
+	   	margin-top: 10px; 
+	 	color: #fff;
+	   	width: 400px;
+	    line-height:46px; 
+		font-family:	'Helvetica Neue', Helvetica, Arial, sans-serif;
+		 box-shadow: 1px 1px 3px #1D3871; 
+}
+---------------------------------------------------------------
+/*  Keyword_planner part*/
+.loginbox { 
+	background: #FBFCFD; 
+	padding: 20px; 
+	width: 580px; 
+	margin: 4% auto 0 auto; 
+	position: relative; 
+}
+.loginboxinner {
+	background: #FBFCFD; 
+	padding: 3px; 
+	position: relative; 
+	border: 1px solid #FBFCFD;
+}
+/* space between box to the heading in the container */
+.loginheader { 
+		height: px;
+	 }
+.loginform { 
+	margin: 1px auto; 
+	text-align:center; 
+	}
+	.plannerform { 
+	margin: 1px auto; 
+	text-align:center; 
+	}
+.loginbox p{
+  margin: 7px 0 5px 0; 
+  }
+  /* space between firstname and lastname */
+.loginbox input.mini {
+	width:177px; 
+	padding: 12px 10px; 
+	}
+	
+.loginbox input
+ {
+	padding: 12px 10px; 
+	font-family: Arial, Helvetica, sans-serif;
+	 margin-top: 10px; 
+	 font-size: 15px; 
+	 border: 1px solid #ccc; 
+	 width: 380px; 
+}
+/* button */
+.loginbox button {
+		background: #b81118;
+	 	font-size: 18px; 
+	 	border: 1px solid #b81118; 
+	  	letter-spacing: 1px;
+	   	margin-top: 10px; 
+	 	color: #fff;
+	   	width: 400px;
+	    line-height:46px; 
+		font-family:	'Helvetica Neue', Helvetica, Arial, sans-serif;
+		 box-shadow: 1px 1px 3px #1D3871; 
+}
+/*  search keyword style*/
+-------------------------------------------
+.keyword_search { 
+	margin: 1px auto; 
+	text-align:center; 
+	}
+.Searchbox { 
+	background: #FBFCFD; 
+	padding: 20px; 
+	width: 580px; 
+	margin: 4% auto 0 auto; 
+	position: relative; 
+}
+.Searchboxinner {
+	background: #FBFCFD; 
+	padding: 3px; 
+	position: relative; 
+	border: 1px solid #FBFCFD;
+}
+/* space between box to the heading in the container */
+.Searchheader { 
+		height: px;
+	 }
+.Searchform { 
+	margin: 1px auto; 
+	text-align:center; 
+	}
+.Searchbox p{
+  margin: 7px 0 10px 0; 
+  }
+  
+.Searchbox input
+ {
+ 	
+	padding: 12px 30px; 
+	font-family: Arial, Helvetica, sans-serif;
+	 margin-top: 10px; 
+	 font-size: 15px; 
+	 border: 1px solid #ccc; 
+	 width: 400px; 
+}
+/* button */
+.Searchbox button {
+	
+		background: #b81118;
+	 	font-size: 18px; 
+	 	border: 1px solid #b81118; 
+	  	letter-spacing: 1px;
+	   	margin-top: 10px; 
+	 	color: #fff;
+	   	width: 400px;
+	    line-height:40px; 
+		font-family:	'Helvetica Neue', Helvetica, Arial, sans-serif;
+		 box-shadow: 1px 1px 3px #1D3871; 
+}
+-----------------------------------------------------
+.forget_search { 
+	margin: 1px auto; 
+	text-align:center; 
+	}
+.forgetbox { 
+	background: #FBFCFD; 
+	padding: 20px; 
+	width: 580px; 
+	margin: 4% auto 0 auto; 
+	position: relative; 
+}
+.forgetboxinner {
+	background: #FBFCFD; 
+	padding: 3px; 
+	position: relative; 
+	border: 1px solid #FBFCFD;
+}
+/* space between box to the heading in the container */
+.Searchheader { 
+		height: px;
+	 }
+.forgetform { 
+	margin: 1px auto; 
+	text-align:center; 
+	}
+.forgetbox p{
+  margin: 7px 0 10px 0; 
+  }
+  
+.forgetbox input
+ {
+ 	
+	padding: 12px 30px; 
+	font-family: Arial, Helvetica, sans-serif;
+	 margin-top: 10px; 
+	 font-size: 15px; 
+	 border: 1px solid #ccc; 
+	 width: 400px; 
+}
+/* forget button */
+.forgetbox button {
+	
+		background: #b81118;
+	 	font-size: 18px; 
+	 	border: 1px solid #b81118; 
+	  	letter-spacing: 1px;
+	   	margin-top: 10px; 
+	 	color: #fff;
+	   	width: 400px;
+	    line-height:40px; 
+		font-family:	'Helvetica Neue', Helvetica, Arial, sans-serif;
+		 box-shadow: 1px 1px 3px #1D3871; 
+}
+
+-----------------------------------------------------------
+
+.planner_search { 
+	margin: 1px auto; 
+	text-align:center; 
+	}
+.plannerbox { 
+	background: #FBFCFD; 
+	padding: 20px; 
+	width: 580px; 
+	margin: 4% auto 0 auto; 
+	position: relative; 
+}
+.plannerboxinner {
+	background: #FBFCFD; 
+	padding: 3px; 
+	position: relative; 
+	border: 1px solid #FBFCFD;
+}
+/* space between box to the heading in the container */
+.plannerheader { 
+		height: px;
+	 }
+.plannerform { 
+	margin: 1px auto; 
+	text-align:center; 
+	}
+.plannerbox p{
+  margin: 7px 0 10px 0; 
+  }
+  
+.plannerbox input
+ {
+ 	
+	padding: 12px 30px; 
+	font-family: Arial, Helvetica, sans-serif;
+	 margin-top: 10px; 
+	 font-size: 15px; 
+	 border: 1px solid #ccc; 
+	 width: 150px; 
+}
+/* forget button */
+.plannerbox button {
+	
+		background: #b81118;
+	 	font-size: 18px; 
+	 	border: 1px solid #b81118; 
+	  	letter-spacing: 1px;
+	   	margin-top: 10px; 
+	 	color: #fff;
+	   	width: 100px;
+	    line-height:40px; 
+		font-family:	'Helvetica Neue', Helvetica, Arial, sans-serif;
+		 box-shadow: 1px 1px 3px #1D3871; 
+}
+
+
+/* header */
+#grails-Bar {
+	background:#bb0303;
+	border-bottom: 5px solid #bb0303;
+	box-shadow: 0 0 2px rgba(0, 0, 0, 0.52);
+	min-width: 1000px;
+	width: 100%;
+}
+#grails-Frame {
+	margin-left:auto;
+	margin-right:auto;
+	max-width:1000px;
+	height:80px;
+	display:block;
+}
+/*-------LOGO-----------*/
+#logo {
+	float: left;
+	height: 70px;
+	position: relative;
+	width: 160px;
+}
+/* logo link */
+#logo a {
+	position: absolute;
+	top: 20px;
+	font-size:35px; 
+	font-weight:bold; 
+	color:#FFF;
+	text-decoration:none;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+.hide-show{
+  width: 94%;
+  margin: -3.62em 3% 0 1.5%;
+  position: relative;
+  z-index: 5;
+  display: none;
+}
+ /* span {
+    background: $maincolor;
+    font-size: 1em;
+    padding: .5em;
+    float: right;
+    @include border-radius(5px);
+    cursor: pointer;
+  }*/
+ .footer{
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 3em;
+  background-color: #ffffff;
+  text-align: center;
+ }
